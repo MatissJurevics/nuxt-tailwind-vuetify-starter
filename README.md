@@ -1,4 +1,5 @@
-# fire
+# Nuxt 2 / Tailwindcss / Vuetify Starter
+A way to quickly set up a project with Nuxt Tailwind and Vuetify...
 
 ## Build Setup
 
